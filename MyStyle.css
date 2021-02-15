@@ -1,0 +1,35 @@
+/* Title*/
+h1, address{
+    text-align: center;}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+/* Headings */
+h2{
+    text-align: center;
+    font-size: 150%;
+}
+
+/* Text Body */
+p{
+    text-indent: 40px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    font-size: 100%;
+}
+
+/* Lists */
+ul{
+    display: block;
+    margin: auto;
+    list-style-type: square;
+    width: 40%;
+} 
+
+
