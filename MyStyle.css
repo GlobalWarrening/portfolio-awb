@@ -4,6 +4,24 @@ body {
     background-color: #f3deb6;
 }
 
+.vertical-menu{
+    width: 10%;
+}
+.vertical-menu a{
+    color: rgb(0, 0, 0);
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    background-color: grey;
+}
+.vertical-menu a:hover{
+    background-color: #eee;
+}
+.vertical-menu a.active{
+    background-color: #d4b010bd;
+    color: white;
+}
+
 h1, address{
     text-align: center;}
 
