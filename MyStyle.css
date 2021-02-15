@@ -1,4 +1,9 @@
 /* Title*/
+
+body {
+    background-color: #f3deb6;
+}
+
 h1, address{
     text-align: center;}
 
